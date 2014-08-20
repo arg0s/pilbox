@@ -1,0 +1,1 @@
+web: python -m pilbox.app --port=$PORT --quality=75 --filter=bicubic
